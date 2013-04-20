@@ -1,4 +1,4 @@
 RepRap
 ======
 
-Repository for RepRap files and modifications
+Repository for RepRap files and printer modifications
